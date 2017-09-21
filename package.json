@@ -1,0 +1,26 @@
+{
+  "name": "crawler-nodejs-test",
+  "version": "1.0.0",
+  "description": "crawler test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "@emanueljcc",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.18.1",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanueljcc/crawler-nodejs-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emanueljcc/crawler-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/emanueljcc/crawler-nodejs-test#readme"
+}
